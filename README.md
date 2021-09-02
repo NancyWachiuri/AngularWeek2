@@ -1,5 +1,7 @@
 # Gitsearch Application.
 
+![Screenshot from 2021-09-02 12-28-57](https://user-images.githubusercontent.com/78595142/131822374-f3f3253a-9edb-4978-a6d7-1a497d93fa75.png)
+
 Welcome to our Git Search Application. Look around, Search for users and feel free to contact us. We are happy to help ., {21st September 2021}
 
 ### by Nancy Wachiuri
