@@ -1,4 +1,4 @@
-##SearchGit App##
+##SearchGit App
 
 
 Welcome to our Git Search Application. Look around, Search for users and feel free to contact us. We are happy to help ., {21st September 2021}
